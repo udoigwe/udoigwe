@@ -1,7 +1,7 @@
 
 ## Hi  👋 My name is Uchechukwu Udo Igwe
 
-**Full-stack Developer**
+**Full-stack Software Engineer**
 
 Full-Stack Developer with experience in JavaScript, React, Ruby on Rails, and PostgreSQL. I'm obsessed with developing clean, efficient, and scalable web applications that solve real-world problems.
  
