@@ -1,11 +1,11 @@
 
-## Hi  👋 My name is Sunday Anthony Ezema
+## Hi  👋 My name is Uchechukwu Udo Igwe
 
 **Full-stack Developer**
 
 Full-Stack Developer with experience in JavaScript, React, Ruby on Rails, and PostgreSQL. I'm obsessed with developing clean, efficient, and scalable web applications that solve real-world problems.
  
-* 🌍  How to reach me [LinkedIn](https://www.linkedin.com/in/anthony-ezema/)
+* 🌍  How to reach me [LinkedIn](https://www.linkedin.com/in/uchechukwuudoigwe/)
 
 * 🧠  I'm currently building Fullstack projects
 
@@ -43,20 +43,20 @@ Full-Stack Developer with experience in JavaScript, React, Ruby on Rails, and Po
    ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 
-[![Bushido's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonyco-4u)](https://github.com/Bushido-brown/github-readme-stats)
-![Bushido's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sonyco-4u&theme=blue-green)
+[![Bushido's GitHub stats](https://github-readme-stats.vercel.app/api?username=udoigwe)](https://github.com/Bushido-brown/github-readme-stats)
+![Bushido's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=udoigwe&theme=blue-green)
 
 ## Contact 📫
 
 <div>
   <div>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a  https://www.linkedin.com/in/anthony-ezema/" target="_blank">
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a  https://www.linkedin.com/in/uchechukwuudoigwe/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/EZEMASUN" target="_blank">
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="https://twitter.com/igweudo" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
-    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="mailto:ezemaanthonysunday@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    &ensp;&ensp;&ensp;&ensp;&ensp; <a href="mailto:udoigweuchechukwu@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
   </div>
